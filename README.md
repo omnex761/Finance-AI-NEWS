@@ -286,3 +286,6 @@ host:
   can be produced without them.
 - If Groq deprecates `llama-3.3-70b-versatile` in the future, update
   `GROQ_MODEL` in `.env` to a currently supported model.
+
+## Documentation 
+https://ap.wps.com/cms/docs/d/cbCaecSLlyxqLWSg?platform=pc&refer=copylink
